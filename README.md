@@ -1,0 +1,2 @@
+# waifoo
+Projeto de amigos.
