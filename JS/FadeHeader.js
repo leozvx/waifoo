@@ -1,7 +1,6 @@
 function ChangeOpacity()
 {
     header = document.getElementById("header");
-    console.log(scrollY);
     if(scrollY <= 150) 
     {
         header.style.backgroundColor = "rgba(48, 51, 51, " + (scrollY*255/150).toString() + ")";
